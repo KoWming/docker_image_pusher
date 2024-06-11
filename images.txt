@@ -1,2 +1,3 @@
 amilys/embyserver:latest
 hsuyelin/nas-tools:latest
+jxxghp/moviepilot:latest
